@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pfts
 - 👀 I’m interested in Python and your frameworks. 
-- 🌱 I’m currently learning HTML5, CSS and JS
+- 🌱 I’m currently learning HTML5, CSS, JS, Ionic, Angular, React and Vue.
 - 💞️ Unfortunally I can't colaboratte with nothing for now. Thanks for understand. :) 
 - 📫 Contact me here on community same. 
 
